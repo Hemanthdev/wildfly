@@ -12,7 +12,7 @@
     </parent>
 
     <properties>
-        <version.org.hibernate4_3>4.3.10.Final</version.org.hibernate4_3>
+        <version.org.hibernate4_3>5.3.0.Final</version.org.hibernate4_3>
     </properties>    
 
     <groupId>org.wildfly</groupId>
